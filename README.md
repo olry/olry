@@ -7,9 +7,6 @@ writing (prose), learning (code, amongst many things), making (web apps)
 - 🌱 I’m currently learning ...
 the in's and out's of MySQL and just web dev, in general
 
-- 💞️ I’m looking to collaborate on ...
-not collaborating at the moment, I don't think
-
 - 📫 How to reach me ...
 oleary.xyz
 
