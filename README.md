@@ -5,7 +5,7 @@
 writing (prose), learning (code, amongst many things), making (web apps)
 
 - 🌱 I’m currently learning ...
-the in's and out's of MySQL and just web dev, in general
+PHP, git, web development, in general
 
 - 📫 How to reach me ...
 oleary.xyz
