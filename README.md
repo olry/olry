@@ -8,7 +8,7 @@ writing (prose), learning (code, amongst many things), making (web apps)
 PHP, git, web development, in general
 
 - 📫 How to reach me ...
-oleary.xyz
+olry.co
 
 <!---
 olry/olry is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
