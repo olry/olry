@@ -5,7 +5,7 @@
 writing (prose), learning (code, amongst many things), making (web apps)
 
 - 🌱 I’m currently learning ...
-PHP, git, web development, in general
+PHP, MySQL, git, web development, in general
 
 - 📫 How to reach me ...
 🤷
